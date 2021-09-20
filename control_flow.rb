@@ -18,9 +18,7 @@ def hows_the_weather(temperature)
      "too dang hot"
   else 
      "perfect"
-   
-     "It\'s #{temperature} out there!"
-end
+   end
 
 
 
